@@ -2,7 +2,7 @@
 ## *The Best School21 Hacks*
 ### <a href="https://school21.net/">School21</a> is a math website commonly used by schools
 ## Directions
-- Copy the Contents from <a href="https://github.com/VirescentOverlord/School21-Hack/blob/main/bookmarklet.js">here</a>
+- Copy the Contents from <a href="https://github.com/futzumi/School21-Hack/blob/main/bookmarklet">here</a>
 -  Paste the code into your bookmarks
 -  Click the added bookmark while at <a href="https://school21.net/">School21</a>
 
